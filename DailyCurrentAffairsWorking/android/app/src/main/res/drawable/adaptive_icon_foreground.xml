@@ -1,0 +1,2 @@
+<!-- moved to drawable-anydpi-v26/ to satisfy adaptive-icon API level requirements -->
+<!-- Foreground wrapper that insets the source PNG so it fits inside adaptive icon safe zone -->
